@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VirtualPadClient</string>
+    <string name="connectionStatus">Disconnected.</string>
+</resources>
